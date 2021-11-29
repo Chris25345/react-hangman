@@ -1,10 +1,10 @@
 # React Hangman
 
-<img src="pictures/game" width="600">
+<img src="pictures/game.png" width="600">
 
-<img src="pictures/win" width="600">
+<img src="pictures/win.png" width="600">
 
-<img src="pictures/lost" width="600">
+<img src="pictures/lost.png" width="600">
 
 ## Стек технологий 
 
